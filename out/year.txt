@@ -1,0 +1,8 @@
+
+observed: [ 6  7 30 66]
+expected: [ 6 10 32 64]
+X2= 1.0875
+p= 0.7800924582345854
+----------
+Cannot Reject H0, difference not significant (p=0.780092)
+
